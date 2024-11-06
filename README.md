@@ -3,14 +3,10 @@
 ## !Disclaimer!
 ### Hasil tidak 100% akurat
 ## Setup Environment
-Sebelum memulai, pastikan telah menginstall beberapa library berikut:
-- matplotlib
-- numpy
-- pandas
-- streamlit
+Sebelum memulai, pastikan telah menginstall library streamlit
 Anda dapat menginstallnya di terminal menggunakan `pip`:
 ```
-pip install matplotlib numpy pandas  streamlit
+pip install streamlit
 ```
 ## Run streamlit app
 ```
